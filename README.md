@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **gustavoluisti/gustavoluisti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 # Luis Gustavo Santos :man_technologist:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrmarcelo/)](https://www.linkedin.com/in/luisgustavosantos-/)
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spartatecnologia@gmail.com)](mailto:spartatecnologia@gmail.com)
