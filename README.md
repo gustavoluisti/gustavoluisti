@@ -26,10 +26,6 @@ Here are some ideas to get you started:
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoluisti&hide=html&layout=compact&theme=cobalt" /></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=gustavoluisti&theme=cobalt" /></td>
-  </tr>  
-    <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavoluisti&repo=comanda-blue&theme=cobalt" /></td>
-      
-  </tr>  
+  </tr>    
 </table>
 </center>
